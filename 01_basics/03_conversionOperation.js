@@ -1,1 +1,18 @@
-let score = 33
+//let score = "33abc"
+
+//console.log(typeof score);
+//console.log(typeof (score));
+
+//let valueInNumber = Number(score)
+//console.log(typeof valueInNumber);
+//console.log(valueInNumber);
+
+
+let isLoggedIn = "hitesh"
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn);
+
+// "33" => 33
+// "33abc" => NaN
+
+
